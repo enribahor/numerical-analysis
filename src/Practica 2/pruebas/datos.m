@@ -1,0 +1,1 @@
+f=@funcexam; intervalo=[1 2]; x0=[2 -3]; N1=100; N2=6;
